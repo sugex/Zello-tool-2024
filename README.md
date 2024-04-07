@@ -1,7 +1,4 @@
 # Zello-tool-2024
-New Zello Tool 2024
-
-# Zello-tool-2024
 <img src="https://raw.githubusercontent.com/sugex/Zello-tool-2024/main/zello%20tool%202024.png" alt="Zello Tool 2024">
 
 zello tool terbaru
